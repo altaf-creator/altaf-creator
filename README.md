@@ -8,10 +8,10 @@ I am a beginner coder who do code for fun.
 - CSS
 - Block Programming Language (scratch)
 
-## 📖 I am Currently Learning
+### 📖 I am Currently Learning
 - C#
 - JavaScript
 - Python
 
-## 🔧 I am Currently Working on
+### 🔧 I am Currently Working on
 - [Space-Shooter-Game](//github.com/altaf-creator/Space-Shooter-Game)
