@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there! I'm Altaf 👋
 
-<!--
-**altaf-creator/altaf-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a beginner coder who do code for fun.
 
-Here are some ideas to get you started:
+### 🚀 My Skills
+- Visual Basic .NET
+- HTML
+- CSS
+- Block Programming Language (scratch)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📖 I am Currently Learning
+- C#
+- JavaScript
+- Python
+
+## 🔧 I am Currently Working on
+- [Space-Shooter-Game](//github.com/altaf-creator/Space-Shooter-Game)
