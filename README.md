@@ -2,11 +2,11 @@
 
 I am a beginner coder who do code for fun.
 
-### 🚀 My Skills
+### 🚀 Languages That I Use
 - Visual Basic .NET
 - HTML
 - CSS
-- Block Programming Language (scratch)
+- Block Programming Language (Scratch)
 
 ### 📖 I am Currently Learning
 - C#
