@@ -6,6 +6,7 @@ I am a beginner coder who do code for fun.
 - Visual Basic .NET
 - HTML
 - CSS
+- JavaScript
 - Block Programming Language (Scratch)
 
 ## 📖 I am Currently Learning
