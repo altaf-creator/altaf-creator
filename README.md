@@ -1,8 +1,8 @@
 ## Hi there! I'm Altaf 👋
 
-I am a beginner coder who do code for fun.
+I am a junior coder who do code for fun.
 
-## 🚀 Languages That I Use
+## 🚀 Languages that I use
 - Visual Basic .NET
 - HTML
 - CSS
@@ -11,14 +11,14 @@ I am a beginner coder who do code for fun.
 - C#
 - Block Programming Language (Scratch)
 
-## 📖 I am Currently Learning
+## 📖 I am currently learning
 - C#
 - JavaScript
 - Python
 
-## 🔧 I am Currently Working on
+## 🔧 I am currently working on
 - [altaf-creator/Space-Shooter-Game](//github.com/altaf-creator/Space-Shooter-Game)
 - [altaf-creator/microbit-calculator](//github.com/altaf-creator/microbit-calculator)
 
-## :octocat: My GitHub Statistics
+## :octocat: My GitHub statistics
 ![altaf-creator's GitHub Stats](https://github-readme-stats.vercel.app/api?username=altaf-creator&show_icons=true&icon_color=41b883&bg_color=DEG,fffefe,fcfcfc)
