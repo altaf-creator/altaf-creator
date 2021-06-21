@@ -1,6 +1,6 @@
 ## Hi there! I'm Altaf 👋
 
-I am a junior coder who do code for fun.
+I am a programmer who do code for fun.
 
 ## 🚀 Languages that I use
 - Visual Basic .NET
