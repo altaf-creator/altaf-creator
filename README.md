@@ -3,7 +3,7 @@
 I am a programmer who do code for fun.
 
 ## 🚀 Languages that I use
-- Visual Basic .NET
+- Visual Basic
 - HTML
 - CSS
 - JavaScript
@@ -15,6 +15,7 @@ I am a programmer who do code for fun.
 - C#
 - JavaScript
 - Python
+- Lua
 
 ## 🔧 I am currently working on
 - [altaf-creator/Space-Shooter-Game](//github.com/altaf-creator/Space-Shooter-Game)
