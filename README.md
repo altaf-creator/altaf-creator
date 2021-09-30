@@ -9,6 +9,7 @@ I am a programmer who do code for fun.
 - JavaScript
 - JSON
 - C#
+- Lua
 - Block Programming Language (Scratch)
 
 ## 📖 I am currently learning
