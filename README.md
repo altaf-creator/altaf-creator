@@ -2,7 +2,7 @@
 
 I am a programmer who do code for fun.
 
-## 🚀 Languages that I use
+## 🚀 Languages that I mastered (not really)
 - Visual Basic
 - HTML
 - CSS
