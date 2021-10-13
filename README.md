@@ -1,7 +1,3 @@
----
-title: About Me
-permalink: /
----
 ## 👋 Hey! I'm Altaf 
 
 I am a programmer who do code for fun.
