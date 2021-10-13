@@ -1,5 +1,6 @@
 ---
 title: About Me
+permalink: /
 ---
 ## 👋 Hey! I'm Altaf 
 
