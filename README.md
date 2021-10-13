@@ -1,3 +1,7 @@
+---
+title: "About Me"
+---
+
 ## 👋 Hey! I'm Altaf 
 
 I am a programmer who do code for fun.
