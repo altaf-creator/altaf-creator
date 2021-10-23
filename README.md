@@ -1,8 +1,10 @@
-## 👋 Hey! I'm Altaf 
+### 👋 Hey there, I'm Altaf! aka [altaf-creator](https://github.com/altaf-creator/).
 
-I am a programmer who do code for fun.
+I'm a programmer who likes to make games, websites, Discord Bots and do code for fun.  
 
-## 🚀 Languages that I mastered (not really)
+---
+
+### ⚡ Languages that I mastered (not really)
 - Visual Basic
 - HTML
 - CSS
@@ -12,15 +14,23 @@ I am a programmer who do code for fun.
 - Lua
 - Block Programming Language (Scratch)
 
-## 📖 I am currently learning
+---
+
+### 📖 I am currently learning
 - C#
 - JavaScript
 - Python
 - Lua
 
-## 🔧 I am currently working on
-- [altaf-creator/Space-Shooter-Game](//github.com/altaf-creator/Space-Shooter-Game)
-- [altaf-creator/microbit-calculator](//github.com/altaf-creator/microbit-calculator)
+---
 
-## :octocat: My GitHub statistics
+### 🔧 My Projects & Games
+- [🚀 Space Shooter Game](https://github.com/altaf-creator/Space-Shooter-Game)
+- [🧮 micro:bit Calculator](https://github.com/altaf-creator/microbit-calculator)
+- [🦠 COVID-19 Tracker](https://github.com/altaf-creator/covid-tracker)
+- [🎮 Easy Math Game](https://github.com/altaf-creator/easy-math-game)
+
+---
+
+### :octocat: My GitHub statistics
 ![altaf-creator's GitHub Stats](https://github-readme-stats.vercel.app/api?username=altaf-creator&show_icons=true&icon_color=41b883&bg_color=DEG,fffefe,fcfcfc)
