@@ -16,7 +16,7 @@ I'm a programmer who likes to make games, websites, Discord Bots and do code for
 
 ---
 
-### 📖 I am currently learning
+### 📖 I'm currently learning
 - C#
 - JavaScript
 - Python
@@ -24,7 +24,7 @@ I'm a programmer who likes to make games, websites, Discord Bots and do code for
 
 ---
 
-### 🔧 My Projects & Games
+### 🔧 My projects & games
 - [🚀 Space Shooter Game](https://github.com/altaf-creator/Space-Shooter-Game)
 - [🧮 micro:bit Calculator](https://github.com/altaf-creator/microbit-calculator)
 - [🦠 COVID-19 Tracker](https://github.com/altaf-creator/covid-tracker)
