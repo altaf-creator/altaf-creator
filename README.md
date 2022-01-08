@@ -1,6 +1,7 @@
 ### 👋 Hey there, I'm Altaf! aka [altaf-creator](https://github.com/altaf-creator/).
 
-I'm a programmer who likes to make games, websites, Discord Bots and do code for fun.  
+Hey There! I'm Altaf.
+I'm a school student who likes to code for fun. I usually make games, websites, and sometimes Discord Bots; but I also like to try new things.
 
 ---
 
