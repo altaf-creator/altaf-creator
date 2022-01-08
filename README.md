@@ -18,10 +18,7 @@ I'm a school student who likes to code for fun. I usually make games, websites, 
 ---
 
 ### 📖 I'm currently learning
-- C#
-- JavaScript
-- Python
-- Lua
+- everything
 
 ---
 
