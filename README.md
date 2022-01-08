@@ -13,7 +13,7 @@ I'm a school student who likes to code for fun. I usually make games, websites, 
 - JSON
 - C#
 - Lua
-- Block Programming Language (Scratch)
+- Visual Programming (like Scratch)
 
 ---
 
